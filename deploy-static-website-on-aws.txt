@@ -1,0 +1,48 @@
+﻿CLOUD DEVELOPER
+
+
+Project 1 - Deploy Static Website on AWS
+
+
+Website Files
+
+
+* The S3 bucket is visible in the AWS Management console.
+  
+
+
+
+
+
+* The student has submitted a screenshot showing all the website files uploaded to the newly created S3 bucket.
+  
+
+
+
+* The S3 bucket is configured to support static website hosting.
+  
+
+
+
+* The bucket should allow public access. The S3 bucket has an IAM bucket policy that makes the bucket contents publicly accessible.
+  
+
+
+
+Website Distribution
+
+
+* CloudFront has been configured to retrieve and distribute website files.
+  
+
+
+
+Web Browser Access
+
+
+* The website should be accessible to anyone on the Internet via a web browser. The student should have provided the CloudFront domain name URL and website-endpoint URL for the website.
+
+
+CloudFront domain name
+S3 object URL
+Website-endpoint
